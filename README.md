@@ -1,9 +1,7 @@
 # VINS-Mono
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
+**10 May 2023**: We have added multiagent capablieties and mapping pipeline [Collab Map](https://github.com/B-Bhanu-Teja/collab_map).
 **1 May 2023**: We extended the VINS-Mono pipeline to use gtsam instead of ceres solver and implemented GNC(graduated Non-Convexity), sota Outlier Rejection System. We also replaced visual place recognition system from ORB to NetVLAD.
-**11 Jan 2019**: An extension of **VINS**, which supports stereo cameras / stereo cameras + IMU / mono camera + IMU, is published at [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
-
-**29 Dec 2017**: New features: Add map merge, pose graph reuse, online temporal calibration function, and support rolling shutter camera. Map reuse videos: 
 
 <a href="https://www.youtube.com/embed/WDpH80nfZes" target="_blank"><img src="http://img.youtube.com/vi/WDpH80nfZes/0.jpg" 
 alt="cla" width="240" height="180" border="10" /></a>
