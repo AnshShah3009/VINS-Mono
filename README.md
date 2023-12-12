@@ -1,6 +1,6 @@
 # VINS-Mono with GTSAM
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
-**10 May 2023**: We have added multiagent capablieties and mapping pipeline [Collab Map](https://github.com/B-Bhanu-Teja/collab_map).
+**10 May 2023**: We have added multiagent capabilities and mapping pipeline [Collab Map](https://github.com/B-Bhanu-Teja/collab_map).
 
 **1 May 2023**: We extended the VINS-Mono pipeline to use gtsam instead of ceres solver and implemented GNC(graduated Non-Convexity), sota Outlier Rejection System. We also replaced visual place recognition system from ORB to NetVLAD.
 
