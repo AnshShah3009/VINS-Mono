@@ -1,4 +1,4 @@
-# VINS-Mono
+# VINS-Mono with GTSAM
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
 **10 May 2023**: We have added multiagent capablieties and mapping pipeline [Collab Map](https://github.com/B-Bhanu-Teja/collab_map).
 
